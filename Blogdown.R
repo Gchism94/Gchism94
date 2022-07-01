@@ -45,3 +45,5 @@ blogdown::check_netlify()
 blogdown::remove_hugo()
 
 rstudioapi::navigateToFile("config/_default/params.toml")
+
+

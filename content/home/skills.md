@@ -20,14 +20,14 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description: 90%
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
+  - description: 75%
+    icon: <i class="fa-solid fa-jedi"></i>
     icon_pack: fas
-    name: Photography
+    name: Open Science
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

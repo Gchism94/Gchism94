@@ -37,6 +37,8 @@ superuser: true
 title: Greg T. Chism
 ---
 
-Greg is developing statistics and reproducible research curriculum as a Computational and Data Science Educator at the University of Arizona Data Science Institute, where his experience with image and video analysis and research ethics support his devotion to open science. Greg is from Northern California and obtained his BSc. in Zoology from the University of California, Santa Barbara. He recently defended his Ph.D. in Entomology and Insect Science at the University of Arizona with a minor in Ecology and Evolutionary Biology. Greg's dissertation, under the guidance of Dr. Anna Dornhaus, focuses on how the shapes of ant nests affect how they behave, and addresses links between animal and human architectures. He is actively involved in R programming consultation and workshops, statistical training, and collaborative, reproducible research.
+I developing statistics and reproducible research curriculum as a Computational and Data Science Educator at the University of Arizona Data Science Institute, where my experience with image and video analysis and research ethics support my devotion to open science. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am from Northern California and obtained my BSc. in Zoology from the University of California, Santa Barbara. I recently defended my Ph.D. in Entomology and Insect Science at the University of Arizona with a minor in Ecology and Evolutionary Biology. My dissertation, under the guidance of Dr. Anna Dornhaus, focused on how the shapes of ant nests affect how they behave, and addresses links between animal and human architectures. I am actively involved in R programming consultation and workshops, statistical training, and collaborative, reproducible research.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "resume/Chism_CV_16.Mar.2022.pdf" "newtab" >}}resumé{{< /staticref >}}.

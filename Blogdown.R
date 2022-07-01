@@ -35,3 +35,9 @@ gitcreds::gitcreds_set()
 credentials::set_github_pat()
 
 gitcreds::gitcreds_get()
+
+rstudioapi::navigateToFile("config.yaml", line = 3)
+
+blogdown::config_netlify()
+
+blogdown::check_netlify()

@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://carpentries.org/become-instructor/
     date_end: ''
-    date_start: 'May 2022'
+    date_start: '13-05-2022'
     description: ''
     organization: The Carpentries
     organization_url: https://carpentries.org/

@@ -28,7 +28,7 @@ item:
     date_start: '2022-05-13'
     description: ''
     organization: The Carpentries
-    organization_url: uploads/GCCarpentriesCert.pdf
+    organization_url: "static/uploads/GCCarpentriesCert.pdf"
     title: Data Carpentries Instructor Certification
     url: https://carpentries.org/
 

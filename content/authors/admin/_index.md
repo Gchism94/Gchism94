@@ -1,49 +1,42 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I am broadly interested in reproducible research
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Ph.D. in Entomology and Insect Science
+    institution: University of Arizona
+    year: 2022
+  - course: BSc in Zoology
+    institution: University of California Santa Barbara
+    year: 2014
+
+email: "gchism@arizona.edu"
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Reproducible Research
+- Statistics 
+- Data Visualization
+- R Programming
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Arizona, Data Science Institute
+  url: https://datascience.arizona.edu/
+role: Computational and Data Science Educator
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=ZVyMRmUAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Gchism94
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/greg-chism-b0185a222/
 superuser: true
-title: Nelson Bighetti
+title: Greg T. Chism
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Greg is developing statistics and reproducible research curriculum as a Computational and Data Science Educator at the University of Arizona Data Science Institute, where his experience with image and video analysis and research ethics support his devotion to open science. Greg is from Northern California and obtained his BSc. in Zoology from the University of California, Santa Barbara. He recently defended his Ph.D. in Entomology and Insect Science at the University of Arizona with a minor in Ecology and Evolutionary Biology. Greg's dissertation, under the guidance of Dr. Anna Dornhaus, focuses on how the shapes of ant nests affect how they behave, and addresses links between animal and human architectures. He is actively involved in R programming consultation and workshops, statistical training, and collaborative, reproducible research.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -41,3 +41,7 @@ rstudioapi::navigateToFile("config.yaml", line = 3)
 blogdown::config_netlify()
 
 blogdown::check_netlify()
+
+blogdown::remove_hugo()
+
+rstudioapi::navigateToFile("config/_default/params.toml")

@@ -42,7 +42,7 @@ experience:
     company_logo: org-x
     location: Tucson, AZ
     date_start: '2017-06-28'
-    date_end: '2022-Mar-15'
+    date_end: '2022-03-15'
     description: Interdisciplinary dissertation that explored how ant nest shapes affect their behavior.  
 
 design:

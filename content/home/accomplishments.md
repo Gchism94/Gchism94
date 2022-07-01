@@ -28,9 +28,9 @@ item:
     date_start: '2022-05-13'
     description: ''
     organization: The Carpentries
-    organization_url: https://carpentries.org/
+    organization_url: uploads/GCCarpentriesCert.pdf
     title: Data Carpentries Instructor Certification
-    url: uploads/Chism_CV_16.Mar.2022.pdf
+    url: https://carpentries.org/
 
 design:
   columns: '2'

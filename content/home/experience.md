@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Computational and Data Science Educator
     company: University of Arizona, Data Science Institute
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'https://datascience.arizona.edu/'
+    company_logo: uploads/ua_stack_rgb_4_0.pdf
     location: Tucson, AZ
     date_start: '2022-01-03'
     date_end: ''
@@ -38,8 +38,8 @@ experience:
 
   - title: Ph.D. Entomology and Insect Science
     company: University of Arizona
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://insects.arizona.edu/entomology-insect-science-graduate-program'
+    company_logo: uploads/EISLogo.pdf
     location: Tucson, AZ
     date_start: '2017-06-28'
     date_end: '2022-03-15'

@@ -1,5 +1,5 @@
 ---
-bio: I am broadly interested in reproducible research
+bio: I am broadly interested in reproducible research, but I mostly love playing with visualizations in R...
 education:
   courses:
   - course: Ph.D. in Entomology and Insect Science

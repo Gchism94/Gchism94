@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 75%
-    icon: ":fa-solid fa-jedi:"
+    icon: fa-solid fa-jedi
     icon_pack: fas
     name: Open Science
 # Uncomment to use emoji icons.

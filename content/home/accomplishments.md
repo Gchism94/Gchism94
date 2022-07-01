@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://carpentries.org/become-instructor/
+  - certificate_url:"static/uploads/GCCarpentriesCert.pdf"
     date_end: ''
     date_start: '2022-05-13'
     description: ''
     organization: The Carpentries
-    organization_url: "static/uploads/GCCarpentriesCert.pdf"
+    organization_url: https://carpentries.org/
     title: Data Carpentries Instructor Certification
-    url: https://carpentries.org/
+    url: https://carpentries.org/become-instructor/ 
 
 design:
   columns: '2'

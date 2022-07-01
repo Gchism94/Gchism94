@@ -30,6 +30,6 @@ main:
 #    weight: 70
 
 [[main]]
-  name = "Resume"
-  url = "/resume"
-  weight = 50
+  name: "Resume"
+  url: "/resume"
+  weight: 50

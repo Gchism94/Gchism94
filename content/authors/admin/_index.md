@@ -7,7 +7,7 @@ education:
     year: 2022
   - course: BSc in Zoology
     institution: University of California Santa Barbara
-    year: 2014
+    year: 2016
 
 email: "gchism@arizona.edu"
 highlight_name: true

@@ -23,6 +23,6 @@ main:
     url: '#contact'
     weight: 60
   - name: CV
-    url: https://github.com/Gchism94/cv/blob/master/gchism_cv.pdf
+    url: uploads/gchism_cv.pdf
     weight: 70
 

@@ -70,9 +70,9 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<directory>'
+    url: 'https://github.com/Gchism94/Gchism94'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle

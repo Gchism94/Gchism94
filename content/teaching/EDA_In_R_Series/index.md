@@ -9,10 +9,7 @@ tags:
   - Statistics
   - R/RStudio
   - library(testthat)
-library(rrcompendium)
-
-test_check("rrcompendium")
-Data Visualization
+  - Data Visualization
 publishDate: '2022-08-09'
 publication_types:
   - '2'

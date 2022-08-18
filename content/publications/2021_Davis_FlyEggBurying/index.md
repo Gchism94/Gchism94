@@ -5,6 +5,10 @@ date: '2022-08-85'
 slug: fly-egg-laying-ants
 categories:
   - Preprints
+tags:
+  - Drosophila
+  - Ant predation
+  - Egg laying
 doi: '10.1101/2021.09.30.462443'
 publishDate: '2022-04-05'
 publication_types:

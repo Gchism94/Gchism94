@@ -1,7 +1,7 @@
 ---
 title: "A hymenopteran odorant alerts flies to bury eggs"
 author: "Shaun M. Davis, Gregory T. Chism, Megan M. Maurer, Julio E. Trejo, Ricardo J. Garcia, Todd A. Schlenke"
-date: '2022-08-85'
+date: '2022-08-05'
 slug: fly-egg-laying-ants
 categories:
   - Preprints

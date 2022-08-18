@@ -16,7 +16,7 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: PDF
-  url: 2021.09.30.FlyEggBuryingv2.full.pdf
+  url: publications/2021.09.30.FlyEggBuryingv2.full.pdf
 - icon: doi
   icon_pack: ai
   name: Publication

@@ -11,7 +11,7 @@ tags:
   - Temnothorax
   - Colony Organization
 doi: '10.1101/2022.06.30.498314'
-publishDate: '2022-07-02'
+publishDate: '2022-08-18'
 publication_types:
   - '2'
 # publication: 'bioRxiv'

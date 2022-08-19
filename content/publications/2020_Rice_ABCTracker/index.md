@@ -2,7 +2,7 @@
 title: "ABCTracker: an easy-to-use, cloud-based application
 for tracking multiple objects"
 author: "Lance Rice, Samuel Tate, David Farynyk, Joshua Sun, Greg Chism, Daniel Charbonneau, Thomas Fasciano, Anna Dornhaus, and Min C. Shin"
-date: '2022-08-18'
+date: '2020-01-27'
 slug: abc-tracker-motion-tracking
 categories:
   - Preprints
@@ -11,7 +11,7 @@ tags:
   - Ant tracking
   - Animal movement
 doi: '10.48550/arXiv.2001.10072'
-publishDate: '2020-01-27'
+publishDate: '2022-08-18'
 publication_types:
   - '2'
 # publication: 'arXiv'

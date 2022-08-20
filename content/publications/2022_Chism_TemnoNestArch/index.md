@@ -16,7 +16,7 @@ publication_types:
   - '2'
 # publication: 'bioRxiv'
 summary: 'Preprint for the manuscript detailing how nest architecture influences colony organization in the nest.'
-featured: no
+featured: yes
 links:
 - icon: file-pdf
   icon_pack: fas

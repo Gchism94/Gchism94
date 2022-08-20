@@ -14,7 +14,7 @@ publishDate: '2022-08-09'
 publication_types:
   - '2'
 summary: 'Companion materials for an exploratory data analysis in R workshop series I developed at the UArizona Data Science Institute.'
-featured: no
+featured: yes
 links:
 - icon: book
   icon_pack: fas

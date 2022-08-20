@@ -4,7 +4,7 @@ author: "James L. L. Lichtenstein, Gregory T. Chism, Ambika Kamath, and Jonathan
 date: '2017-12-22'
 slug: beach-spider-personality
 categories:
-  - Publication
+  - Publications
 tags:
   - Terralonus californicus
   - Spider

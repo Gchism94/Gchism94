@@ -25,7 +25,7 @@ layout: list # list, list-sidebar, list-grid
 cascade:
   author: "Greg T. Chism"
   show_author_byline: true
-  show_post_date: false
+  show_post_date: true
   show_comments: true # see site config to choose Disqus or Utterances
   # for single-sidebar layout
   sidebar:

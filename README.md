@@ -9,7 +9,5 @@ I develop statistics and reproducible research curriculum as a Computational and
 
 ## Find me around the web 🌎: <a href="https://github.com/Gchism94"><img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/6677629/89195331-a045af00-d576-11ea-96a1-f185f2821df6.png"></a>
 - See my professional portfolio: https://gregtchism.netlify.app/
-- View my Research Compendiums on [GitHub](https://github.com/Gchism94?tab=repositories)
-
 
 ![Greg Chism's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gchism94&show_icons=true&theme=dark&count_private=true)

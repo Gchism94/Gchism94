@@ -26,10 +26,10 @@ links:
   url: https://github.com/Gchism94/Data7-rrtools-repro-research/
 ---
 
-![Image credit: Eric Lyons](EricSpider.png)
+![](Repro.jpeg)
 
 Research is increasingly computational. We are experiencing a reproducibility crisis in science, largely because we have yet to fully adopt widespread publishing of code and data.
 
 The goal of a research compendium is to provide a standard and easily recognizable way for organizing the digital materials of a project to enable others to inspect, reproduce, and extend the research.
 
-In this workshop series, I first use the R package `rrtools` to provide attendees with a straightforward way to produce a template research compendium with the RStudio IDE and GitHub. I then use the R packages `rtools` and `devtools` to teach attendees how to make their compendium conform to the R package structure. I finally use the `distill` package to show attendees how they can reproduce a research or technical paper in a readable HTML format. 
+In this workshop series, I first use the R package `rrtools` to provide attendees with a straightforward way to produce a template research compendium with the RStudio IDE and GitHub. I then use the R packages `rtools` and `devtools` to teach attendees how to make their compendium conform to the R package structure. I finally use the `distill` package to show attendees how they can reproduce a research or technical paper in a readable HTML format.

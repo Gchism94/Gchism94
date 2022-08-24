@@ -8,7 +8,6 @@ categories:
 tags:
   - Statistics
   - R/RStudio
-  - library(testthat)
   - Data Visualization
 publishDate: '2022-08-09'
 publication_types:

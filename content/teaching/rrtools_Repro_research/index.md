@@ -33,3 +33,5 @@ We are experiencing a reproducibility crisis in science, largely because we have
 The goal of a research compendium is to provide a standard and easily recognizable way for organizing the digital materials of a project to enable others to inspect, reproduce, and extend the research.
 
 In this workshop series, I first use the R package `rrtools` to provide attendees with a straightforward way to produce a template research compendium with the RStudio IDE and GitHub. I then use the R packages `rtools` and `devtools` to teach attendees how to make their compendium conform to the R package structure. I finally use the `distill` package to show attendees how they can reproduce a research or technical paper in a readable HTML format.
+
+Featured image: *The Turing Way* project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).[¶](https://the-turing-way.netlify.app/reproducible-research/compendia.html#research-compendium "Permalink to this image")

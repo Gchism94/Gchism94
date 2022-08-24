@@ -28,7 +28,7 @@ links:
 
 ![](Repro.jpeg)
 
-Research is increasingly computational. We are experiencing a reproducibility crisis in science, largely because we have yet to fully adopt widespread publishing of code and data.
+We are experiencing a reproducibility crisis in science, largely because we have yet to fully adopt widespread publishing of code and data.
 
 The goal of a research compendium is to provide a standard and easily recognizable way for organizing the digital materials of a project to enable others to inspect, reproduce, and extend the research.
 

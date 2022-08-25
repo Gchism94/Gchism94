@@ -14,7 +14,7 @@ My Ph.D. dissertation, under the guidance of Dr. Anna Dornhaus, focused on how t
 
 I am passionate about educating and advocate making the student the hero instead of the instructor by tailoring materials to each learner. 
 
-Thanks for visiting! 🤘
+### Thanks for visiting! 🤘
 
 ***
 

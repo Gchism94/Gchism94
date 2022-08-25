@@ -11,5 +11,6 @@ I develop statistics and reproducible research curriculum as a Computational and
 - See my professional portfolio 💼: https://gregtchism.netlify.app/  
 - Find my published research 📄: [Google Scholar](https://scholar.google.com/citations?user=ZVyMRmUAAAAJ&hl=en&oi=ao)
 - Find my published research compendium and datasets 📜: [GitHub](https://github.com/Gchism94/Research-compendiums-list/blob/main/README.md)
+- See my teaching philosophy and pegagogy 📝: https://gregtchism.netlify.app/teaching/
 
 ![Greg Chism's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gchism94&show_icons=true&theme=dark&count_private=true)

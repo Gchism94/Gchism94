@@ -12,8 +12,7 @@ intro: |
   
 show_outro: true
 outro: |
-  <i class="fa fa-hand-spock-o"></i> Thanks for visiting!
+  <i class="fa-solid fa-hand-spock"></i>Thanks for visiting!
 ---
 
-** index doesn't contain a body, just front matter above.
-See about/list.html in the layouts folder **
+\*\* index doesn't contain a body, just front matter above. See about/list.html in the layouts folder \*\*

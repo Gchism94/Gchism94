@@ -10,8 +10,6 @@ headline: |
 
 I develop free and open source statistics and reproducible research curriculum as a Computational and Data Science Educator at the University of Arizona Data Science Institute, where my experience with image and video analysis and research ethics support my devotion to open science. 
 
-I am passionate about educating and advocate making the student the hero instead of the instructor by tailoring materials to each learner.
-
 <i class="fas fa-graduation-cap pr2"></i>Ph.D. in Entomology & Insect Science (Minor in EEB)  &#8729;
  University of Arizona  &#8729;  2022
 

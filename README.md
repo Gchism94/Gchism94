@@ -1,6 +1,5 @@
 [![GitHub Badge](https://img.shields.io/github/followers/Gchism94?style=social)](https://github.com/Gchism94?tab=followers)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Gchism94.Gchism94)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/60adac83-104c-445b-862d-4fe104252b77/deploy-status)](https://app.netlify.com/sites/gchism/deploys)
 
 ![NestArch](https://github.com/Gchism94/Nest_Arch_ColonyOrganization/blob/main/Figures/NestArchFig.png)
 

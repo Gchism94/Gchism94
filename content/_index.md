@@ -1,9 +1,7 @@
 ---
 title: "Greg T. Chism (Ph.D.)"
-subtitle: "Personal website and portfolio of Dr. Greg T. Chism"
-description: "I am a Computational and Data Science Educator at the University of Arizona Data Science Institute. I received my Ph.D. in Entomology and Insect Science also at the University of Arizona where I studied social insect behavior. 
-
-I am passionate about educating and advocate making the student the hero instead of the instructor by tailoring materials to each learner."
+subtitle: "Computational and Data Science Educator, Data Science Institute, University of Arizona"
+description: "I am a Computational and Data Science Educator and behavioral ecologist. I am passionate about educating and advocate making the student the hero instead of the instructor by tailoring materials to each learner."
 images:
   - img/chism_greg.jpg
 image_left: true

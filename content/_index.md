@@ -4,8 +4,8 @@ subtitle: "Computational and Data Science Educator, Data Science Institute, Univ
 description: "I am a Computational and Data Science Educator and behavioral ecologist. I am passionate about educating and advocate that educators make the student the hero instead of the instructor. My goal is to develop a data science pedagogy that is tailored to each student and establish equity within my classroom environments."
 images:
   - img/chism_greg.jpg
-image_left: true
-text_align_left: false
+image_left: false
+text_align_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about

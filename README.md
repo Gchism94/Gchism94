@@ -24,4 +24,11 @@ I am passionate about educating and advocate making the student the hero instead
 - Find my published research compendium and datasets 📜: [GitHub](https://github.com/Gchism94/Research-compendiums-list/blob/main/README.md)
 - See my teaching philosophy and pegagogy 📝: https://gregtchism.netlify.app/teaching/
 
+<h3 align="left">Languages</h3>
+<p align="left"> <a href="https://www.rstudio.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="r" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="r" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="r" width="40" height="40"/> </a>
+<a href="https://www.docker.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="r" width="40" height="40"/> </a>
+
 ![Greg Chism's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gchism94&show_icons=true&theme=dark&count_private=true)

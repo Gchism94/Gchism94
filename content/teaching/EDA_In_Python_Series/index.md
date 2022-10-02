@@ -25,7 +25,7 @@ links:
   url: https://github.com/Gchism94/Data7_EDA_In_Python_Book
 ---
 
-![](EDA_Python_Plot.jpg)
+![](EDA_Python_Plot.png)
 
 Exploratory data analysis is an essential first step towards determining the validity of your data and should be performed throughout the data pipeline. However, EDA is often performed too late or not at all. The Python programming language, is a widely used open source platform for data analysis and data visualization. This is because of the variety of libraries available and attentive community devoted to data analysis.
 

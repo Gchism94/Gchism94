@@ -1,32 +1,32 @@
 ---
-title: "Data7 Exploratory Data Analysis in R Workshop Series"
+title: "Data7 Exploratory Data Analysis in Python Book"
 author: "Greg T. Chism"
-date: '2022-07-02'
-slug: EDA-in-R-Series
+date: '2022-09-14'
+slug: EDA-in-Python-Series
 categories:
   - Quarto Book
 tags:
   - Statistics
   - R/RStudio
   - Data Visualization
-publishDate: '2022-08-09'
+publishDate: '2022-2-10'
 publication_types:
   - '2'
-summary: 'Companion materials for an exploratory data analysis in R workshop series I developed at the UArizona Data Science Institute.'
+summary: 'Companion materials and Quarto book for the Exploratory Data Analysis in Python Learning Materials I developed at the UArizona Data Science Institute.'
 featured: yes
 links:
 - icon: book
   icon_pack: fas
   name: Quarto Book
-  url: https://gchism94.github.io/Data7_EDA_In_R_Workshops/
+  url: https://gchism94.github.io/Data7_EDA_In_Python_Book/
 - icon: github
   icon_pack: fab
   name: GitHub
-  url: https://github.com/Gchism94/Data7_EDA_In_R_Workshops
+  url: https://github.com/Gchism94/Data7_EDA_In_Python_Book
 ---
 
-![](EDA_Plot.jpg)
+![](EDA_Python_Plot.jpg)
 
-Exploratory data analysis is an essential first step towards determining the validity of your data and should be performed throughout the data pipeline. However, EDA is often performed too late or not at all. The R programming language, specifically through the RStudio IDE, is widely used open source platform for data analysis and data visualization. This is because of the extensive variety of packages available and attentive community devoted to data analysis. Consequently, there are several exploratory data analysis packages, each of which have their own pros and cons.
+Exploratory data analysis is an essential first step towards determining the validity of your data and should be performed throughout the data pipeline. However, EDA is often performed too late or not at all. The Python programming language, is a widely used open source platform for data analysis and data visualization. This is because of the variety of libraries available and attentive community devoted to data analysis.
 
-In this workshop series, I utilize the `dlookr` package to conduct preliminary exploratory data analysis aimed at diagnosing any major issues with an imported data set. `dlookr` offers a clean and straightforward methodology to uncover issues such as data outliers, missing data, as well as summary statistical reports.
+Here, I utilize the pandas and pandas-profiling libraries to conduct preliminary exploratory data analysis aimed at diagnosing any major issues with an imported data set. pandas and pandas-profiling offers a clean and straightforward methodology to uncover issues such as data outliers, missing data, as well as summary statistical reports.

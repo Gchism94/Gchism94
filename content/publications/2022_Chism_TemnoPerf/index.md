@@ -1,5 +1,5 @@
 ---
-title: "Nest shape does not affect ant colony performance against a nest invader 
+title: "Nest shape does not affect ant colony performance against a nest invader" 
 author: "Greg T. Chism, Alann Rathery, and Anna Dornhaus"
 date: '2022-10-02'
 slug: temnothorax-nest-architecture-performance

@@ -4,7 +4,7 @@ author: "Greg T. Chism"
 date: '2022-07-02'
 slug: EDA-in-R-Series
 categories:
-  - Quarto Book
+  - Quarto
 tags:
   - Statistics
   - R/RStudio

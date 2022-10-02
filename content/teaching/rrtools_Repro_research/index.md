@@ -4,7 +4,7 @@ author: "Greg T. Chism"
 date: '2022-08-24'
 slug: rrtools-repro-research
 categories:
-  - Quarto Book
+  - Quarto
 tags:
   - R/RStudio
   - rrtools

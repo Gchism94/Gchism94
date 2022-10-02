@@ -4,15 +4,15 @@ author: "Greg T. Chism"
 date: '2022-10-02'
 slug: EDA-in-Python-Series
 categories:
-  - Quarto Book
+  - Quarto
 tags:
   - Statistics
-  - R/RStudio
+  - Python
   - Data Visualization
 publishDate: '2022-09-14'
 publication_types:
   - '2'
-summary: 'Companion materials and Quarto book for the Exploratory Data Analysis in Python Learning Materials I developed at the UArizona Data Science Institute.'
+summary: 'Quarto book for the Exploratory Data Analysis in Python Learning Materials I developed at the UArizona Data Science Institute.'
 featured: yes
 links:
 - icon: book

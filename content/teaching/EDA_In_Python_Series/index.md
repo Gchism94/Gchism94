@@ -1,7 +1,7 @@
 ---
 title: "Data7 Exploratory Data Analysis in Python Book"
 author: "Greg T. Chism"
-date: '2022-09-14'
+date: '2022-10-02'
 slug: EDA-in-Python-Series
 categories:
   - Quarto Book
@@ -9,7 +9,7 @@ tags:
   - Statistics
   - R/RStudio
   - Data Visualization
-publishDate: '2022-2-10'
+publishDate: '2022-09-14'
 publication_types:
   - '2'
 summary: 'Companion materials and Quarto book for the Exploratory Data Analysis in Python Learning Materials I developed at the UArizona Data Science Institute.'

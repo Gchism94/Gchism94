@@ -9,7 +9,7 @@ tags:
   - Nest Architecture
   - Temnothorax
   - Colony Performance
-publishDate: ''
+publishDate: '2022-10-02'
 publication_types:
   - '2'
 summary: 'In preparation manuscript detailing how nest architecture influences colony performance in the nest.'

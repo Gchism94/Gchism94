@@ -31,4 +31,4 @@ I am passionate about educating and advocate making the student the hero instead
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="r" width="40" height="40"/> </a>
 <a href="https://www.docker.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="r" width="40" height="40"/> </a>
 
-![Greg Chism's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gchism94&show_icons=true&theme=dark&count_private=true&random=&randomss524272)
+![Greg Chism's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gchism94&show_icons=true&&random=&randomss524272&theme=dark&count_private=true)

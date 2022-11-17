@@ -6,7 +6,7 @@
 
 ***
 
-# Greetings! 👋
+<h1 align="left">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 I am a Computational and Data Science Educator at the University of Arizona Data Science Institute, where I develop **free and open access** statistics and open science curriculum.  
 
@@ -23,6 +23,7 @@ I am passionate about educating and advocate making the student the hero instead
 - Find my published research 📄: [Google Scholar](https://scholar.google.com/citations?user=ZVyMRmUAAAAJ&hl=en&oi=ao)
 - Find my published research compendium and datasets 📜: [GitHub](https://github.com/Gchism94/Research-compendiums-list/blob/main/README.md)
 - See my teaching philosophy and pegagogy 📝: https://gregtchism.netlify.app/teaching/
+
 
 <h3 align="left">Languages</h3>
 <p align="left"> <a href="https://www.rstudio.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>

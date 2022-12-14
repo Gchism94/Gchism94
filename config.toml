@@ -154,6 +154,11 @@ enableEmoji = true
     url = "/teaching/"
     weight = 2
   [[menu.header]]
+    name = "Resume"
+    title = "Resume"
+    url = "/Resume/gchism_resume.pdf/"
+    weight = 4
+  [[menu.header]]
     name = "CV"
     title = "CV"
     url = "/cv/gchism_cv.pdf/"

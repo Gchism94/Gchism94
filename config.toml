@@ -100,7 +100,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "linkedin"
       icon_pack = "fab"
-      url       = "https://www.linkedin.com/in/greg-chism-b0185a222/"
+      url       = "https://www.linkedin.com/in/greg-chism/"
   #[[params.social]]
    #   icon      = "facebook-square" # icon name without the 'fa-'
     #  icon_pack = "fab"

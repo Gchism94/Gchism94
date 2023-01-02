@@ -1,7 +1,7 @@
 ---
 title: "Greg T. Chism (Ph.D.)"
 subtitle: "Computational and Data Science Educator, Data Science Institute, University of Arizona"
-description: "I am a Computational and Data Science Educator and behavioral ecologist. I am passionate about educating and advocate that educators make the student the hero instead of the instructor. My goal is to develop a data science pedagogy that is tailored to each student and establish equity within my classroom environments."
+description: "I am a Data Scientist III, behavioral ecologist, and educator. I am passionate about telling stories through data. I accomplish this by leveraging my interdisciplinary background to provide an innovative approach to answering complex questions through data."
 images:
   - img/chism_greg.jpg
 image_left: false

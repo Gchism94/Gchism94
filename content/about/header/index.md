@@ -8,7 +8,7 @@ headline: |
 
 <!-- this is a subheadline -->
 
-I develop free and open source statistics and reproducible research curriculum as a Computational and Data Science Educator at the University of Arizona Data Science Institute, where my experience with image and video analysis and research ethics support my devotion to open science. 
+I develop free and open source statistics and reproducible research curriculum as a Data Scientist III at the University of Arizona Data Science Institute, where my experience with image and video analysis and data ethics support my devotion to open science. 
 
 <i class="fas fa-graduation-cap pr2"></i>Ph.D. in Entomology & Insect Science (Minor in EEB)  &#8729;
  University of Arizona  &#8729;  2022

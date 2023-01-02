@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Personal website and portfolio of Dr. Greg T. Chism."
   favicon = "/img/favicon.ico"
   logo = "/img/icon.jpg" 
-  mainSections = ["home", "publications", "teaching", "cv"]
+  mainSections = ["home", "projects", "teaching", "cv", "resume"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -144,8 +144,8 @@ enableEmoji = true
     #url = "/blog/"
     #weight = 2
   [[menu.header]]
-    name = "Publications"
-    title = "Publications"
+    name = "Projects"
+    title = "Projects"
     url = "/publications/"
     weight = 3
   [[menu.header]]

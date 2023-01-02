@@ -8,11 +8,9 @@
 
 <h1 align="left">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-I am a Computational and Data Science Educator at the University of Arizona Data Science Institute, where I develop **free and open access** statistics and open science curriculum.  
+Stories are practically built into our DNA; we’ve been telling them for over 3,000 years. As a research scientist transitioning into a data scientist I have learned how valuable data is in telling stories. My passion is to leverage my six+ years of experience to help others tell their stories or gain new insights.
 
-My Ph.D. dissertation, under the guidance of Dr. Anna Dornhaus, focused on how the shapes of ant nests affect how they behave, and addressed links between animal and human architectures. 
-
-I am passionate about educating and advocate making the student the hero instead of the instructor by tailoring materials to each learner. 
+Following my doctoral training, I have honed my data science toolkit to contain inferential statistics, machine learning, containers, and programming so that I can best address any project or challenge.
 
 ### Thanks for visiting! 🤘
 

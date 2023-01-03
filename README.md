@@ -1,5 +1,5 @@
 [![GitHub Badge](https://img.shields.io/github/followers/Gchism94?style=social)](https://github.com/Gchism94?tab=followers)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Gchism94.Gchism94)
+![visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Gchism94.Gchism94&left_text=Visitors)
 
 ![NestArch](https://github.com/Gchism94/Nest_Arch_ColonyOrganization/blob/main/Figures/NestArchFig.png)
 ![Network](https://github.com/Gchism94/Nest_Arch_ColonyOrganization/blob/7814921f7ffe20ef07ec0a5557c57bed1e905fd0/Figures/Network.jpg)

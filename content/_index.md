@@ -1,7 +1,7 @@
 ---
 title: "Greg T. Chism (Ph.D.)"
 subtitle: "Data Scientist III, Data Science Institute, University of Arizona"
-description: "I am a Data Scientist III, behavioral ecologist, and educator. I am passionate about telling stories through data. I accomplish this by leveraging my interdisciplinary background to provide an innovative approach to answering complex questions through data."
+description: "I am a Data Scientist III, behavioral ecologist, and educator. I am passionate about telling stories through data. I accomplish this by leveraging my interdisciplinary background to provide an innovative approach to answering complex questions."
 images:
   - img/chism_greg.jpg
 image_left: false

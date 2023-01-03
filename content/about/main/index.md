@@ -12,7 +12,7 @@ intro: |
   Following my doctoral training, I have honed my data science toolkit to contain inferential statistics, machine learning, containers, and programming so that I can best address any project or challenge. 
 
 Over the past six+ years, I have:
-- Managed interdisciplinary and collaborative research projects resulting in reproducible, open source containers (GitHub actions & Binder), publications, and presentations at multiple conferences towards broad audiences.
+- Managed interdisciplinary and collaborative research projects resulting in reproducible, open source containers (GitHub actions & Binder, Docker & CyVerse), publications, and presentations at multiple conferences towards broad audiences.
 
 - Developed websites, dashboards, and documentation (RMarkdown/Quarto) that leverages statistics and high-quality visualizations.
 

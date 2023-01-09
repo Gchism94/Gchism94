@@ -36,7 +36,7 @@ Following my doctoral training, I have honed my data science toolkit to contain 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gchism94&theme=noctis_minimus&layout=compact" />
 </a>
 
-![Snake animation](https://github.com/Gchism94/Gchism94/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gchism94/Gchism94/raw/output/github-contribution-grid-snake.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

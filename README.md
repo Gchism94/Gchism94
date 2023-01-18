@@ -8,7 +8,7 @@
 
 <h1 align="left">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-Stories are practically built into our DNA; we’ve been telling them for over 3,000 years. As a research scientist transitioning into a data scientist I have learned how valuable data is in telling stories. My passion is to leverage my eight+ years of experience to help others tell their stories or gain new insights.
+Stories are practically built into our DNA; we’ve been writing them for over 3,000 years. As a research scientist transitioning into a data scientist I have learned how valuable data is in telling stories. My passion is to leverage my eight+ years of experience to help others tell their stories or gain new insights.
 
 Following my doctoral training, I have honed my data science toolkit to contain inferential statistics, machine learning, containers, and programming so that I can best address any project or challenge.
 

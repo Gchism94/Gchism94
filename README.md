@@ -20,7 +20,7 @@ Following my doctoral training, I have honed my data science toolkit to contain 
 - See my professional portfolio 💼: https://gregtchism.com/ 
 - Find my published research 📄: [Google Scholar](https://scholar.google.com/citations?user=ZVyMRmUAAAAJ&hl=en&oi=ao)
 - Find my production level projects 📜: [GitHub](https://github.com/Gchism94/Research-compendiums-list/blob/main/README.md)
-- See my teaching philosophy and pegagogy 📝: https://gregtchism.netlify.app/teaching/
+- See my teaching philosophy and pegagogy 📝: https://gregtchism.com/teaching/
 
 
 <h3 align="left">Languages</h3>

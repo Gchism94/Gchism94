@@ -1,7 +1,13 @@
 <head>
-  {{ if .Site.Params.GoogleAnalyticsID }}
-  {{ partial "analytics-gtag.html" . }}
-  {{ end }}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DMERZ1EF2R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DMERZ1EF2R');
+</script>
   {{ partial "meta.html" . }}
   {{ template "_internal/schema.html" . }}
   {{ template "_internal/google_analytics.html" . }}

@@ -1,17 +1,7 @@
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DMERZ1EF2R"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-DMERZ1EF2R');
-</script>
   {{ partial "meta.html" . }}
   {{ template "_internal/schema.html" . }}
   {{ template "_internal/google_analytics.html" . }}
-  {{ template "_internal/google_analytics_async.html" . }}
   {{ `<!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->` | safeHTML }}
   <link rel="shortcut icon" href="{{ .Site.Params.favicon }}" type="image/x-icon">
   <link rel="icon" href="{{ .Site.Params.favicon }}" type="image/x-icon">

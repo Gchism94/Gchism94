@@ -12,6 +12,6 @@ show_social_links: true # specify social accounts in site config
 show_poweredby_formspree: true
 # From the Integration tab in Formspree where it says Your form's endpoint is:
 # https://formspree.io/f/xzbqgkrv The id will be "xzbqgkrv"" 
-formspree_form_id: "id-from-formspree"
+formspree_form_id: "xzbqgkrv"
 ---
 

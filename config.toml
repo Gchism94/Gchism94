@@ -101,30 +101,7 @@ enableEmoji = true
       icon      = "linkedin"
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/greg-chism/"
-  #[[params.social]]
-   #   icon      = "facebook-square" # icon name without the 'fa-'
-    #  icon_pack = "fab"
-     # url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
-  #[[params.social]]
-   #   icon      = "instagram" # icon name without the 'fa-'
-    #  icon_pack = "fab"
-     # url       = "https://www.instagram.com/explore/tags/apero/"
-  #[[params.social]]
-   #   icon      = "twitter" # icon name without the 'fa-'
-    #  icon_pack = "fab"
-     # url       = "https://twitter.com/hashtag/apéro"
-  #[[params.social]]
-   #   icon      = "impactstory" # icon name without the 'fa-'
-    #  icon_pack = "ai"
-     # url       = "https://impactstory.org/u/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-5478-2445"
-  #[[params.social]]
-   #   icon      = "rss" # icon name without the 'fa-'
-    #  icon_pack = "fas"
-     # url       = "/blog/index.xml"
+      
 
 #[taxonomies]
  # category = "categories"
@@ -138,11 +115,6 @@ enableEmoji = true
     title = "About me"
     url = "/about/"
     weight = 1
-  #[[menu.header]]
-   # name = "Blog"
-    #title = "Blog"
-    #url = "/blog/"
-    #weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Projects"
@@ -163,16 +135,6 @@ enableEmoji = true
     title = "CV"
     url = "/cv/gchism_cv.pdf/"
     weight = 4
-  #[[menu.header]]
-  #  name = "A collections"
-   # title = "A collection"
-    #url = "/collection/"
-    #weight = 5
-  #[[menu.header]]
-  #  name = "Elements"
-   # title = "Element Page"
-    #url = "/elements/"
-    #weight = 6
     
   # Configure footer  
   [[menu.footer]]
@@ -185,11 +147,6 @@ enableEmoji = true
     title = "Contact form"
     url = "/contact/"
     weight = 2
-  #[[menu.footer]]
-   # name = "Contributors"
-   # title = "Contributors"
-    #url = "/contributors/"
-    #weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]

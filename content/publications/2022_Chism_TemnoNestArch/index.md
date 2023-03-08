@@ -21,7 +21,7 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: PDF
-  url: 2022.06.30.TemnoNestArchv1.full.pdf
+  url: publications/2022.06.30.TemnoNestArchv1.full.pdf
 - icon: doi
   icon_pack: ai
   name: Publication

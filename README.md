@@ -17,10 +17,10 @@ Following my doctoral training, I have honed my data science toolkit to contain 
 ***
 
 ## Find me around the web 🌎: <a href="https://github.com/Gchism94"><img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/6677629/89195331-a045af00-d576-11ea-96a1-f185f2821df6.png"></a>
-- See my professional portfolio 💼: https://gregtchism.com/ 
+- See my professional portfolio 💼: [Website of Dr. Greg Chism](https://gregchism.org/)
 - Find my published research 📄: [Google Scholar](https://scholar.google.com/citations?user=ZVyMRmUAAAAJ&hl=en&oi=ao)
 - Find my production level projects 📜: [GitHub](https://github.com/Gchism94/Research-compendiums-list/blob/main/README.md)
-- See my teaching philosophy and pegagogy 📝: https://gregtchism.com/teaching/
+- See my teaching philosophy and pegagogy 📝: [Teaching](https://gregchism.org/articles/)
 
 <br>
 <h3 align="left">Languages</h3>

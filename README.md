@@ -23,12 +23,15 @@ Following my doctoral training, I have honed my data science toolkit to contain 
 - See my teaching philosophy and pegagogy 📝: [Teaching](https://gregchism.org/articles/)
 
 <br>
-<h3 align="left">Languages</h3>
+<h3 align="left">▶ Languages and Tools:</h3>
 <p align="left"> <a href="https://www.rstudio.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="r" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="r" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="r" width="40" height="40"/> </a>
 <a href="https://www.docker.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="r" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" rel="nofollow" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/Gchism94">

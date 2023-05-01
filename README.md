@@ -1,5 +1,5 @@
 [![GitHub Badge](https://img.shields.io/github/followers/Gchism94?style=social)](https://github.com/Gchism94?tab=followers)
-![visitor Badge](https://komarev.com/ghpvc/?username=Gchism94&label=Profile%20views&style=flat)
+
 <!-- OLD VISITOR BADGE ![visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Gchism94.Gchism94&left_text=Visitors) -->
 
 ![NestArch](https://github.com/Gchism94/Nest_Arch_ColonyOrganization/blob/main/Figures/NestArchFig.png)
@@ -8,6 +8,13 @@
 ***
 
 <h1 align="left">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Gchism94/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&weight=500&size=22&duration=3000&pause=500&color=1D6685&multiline=true&width=750&height=140&lines=%24+whoami;Gchism94;%5BAKA+Greg+Chism%5D%F0%9F%A4%98;Educator+%7C+Data+Scientist+%7C+Behavioral+Ecologist;Thanks+for+visiting!+%F0%9F%92%9B)](https://git.io/typing-svg)
 

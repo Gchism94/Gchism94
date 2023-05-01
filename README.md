@@ -21,11 +21,14 @@
 <details>
   <summary><b>:shipit: &nbsp; &nbsp;<h2> A little about me </h2> &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
-As a data science educator with a background in research, I am passionate about harnessing the power of data to uncover compelling stories and insights. With over eight years of experience in the field, my goal is to empower others to leverage their data, making complex concepts accessible and inspiring.
-
-After completing my doctoral training, I have continued to expand my expertise in data science, mastering tools such as inferential statistics, machine learning, containers, and programming languages. This diverse skill set allows me to effectively tackle a wide range of projects and challenges.
-
-As an educator, I am committed to sharing my knowledge and experiences with others, guiding them on their own data-driven journeys. By connecting the ancient art of storytelling with the modern world of data science, I aim to inspire the next generation of data scientists and storytellers.
+  <ul>
+    <li> Passionate data science educator with a research background and over eight years of experience </li>
+    <li> Adept at harnessing data to uncover compelling stories and insights </li>
+    <li> Empowering others to leverage their data and make complex concepts accessible </li>
+    <li> Expanded expertise in data science tools, including inferential statistics, machine learning, containers, and programming languages </li>
+    <li> Capable of tackling a wide range of projects and challenges </li>
+    <li> Committed to sharing knowledge and guiding others on their data-driven journeys </li>
+    <li> Inspiring the next generation of data scientists and storytellers by connecting storytelling with data science </li>
 </details>
 
 <details>
@@ -40,11 +43,14 @@ As an educator, I am committed to sharing my knowledge and experiences with othe
 </details>
 
 <h2 align="left">Languages</h2>
-<p align="left"> <a href="https://www.rstudio.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="r" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://www.docker.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="r" width="40" height="40"/> </a>
+  
+![R](https://img.shields.io/badge/-R-000?&style=for-the-badge&logo=R)
+![Python](https://img.shields.io/badge/-Python-000?&style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&style=for-the-badge&logo=JavaScript)
+![Docker](https://img.shields.io/badge/-Docker-000?&style=for-the-badge&logo=Docker)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-css3-000?&style=for-the-badge&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-000?&style=for-the-badge&logo=MySQL)
   
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/Gchism94">

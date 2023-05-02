@@ -54,9 +54,7 @@ ds_edu <- DataScienceEducator$new()
 say_hi(ds_edu) 
 ```
           
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem-gchism94.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Gchism)
-</div>
+
           
 </details>
 

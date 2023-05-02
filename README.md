@@ -58,12 +58,10 @@ say_hi(ds_edu)
 <details>
   <summary><b> 🌎 &nbsp; &nbsp;<h2>Find me around the web </h2> &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
-  <ul>
-    <li> <a href="https://gregtchism.com/">See my professional portfolio 💼</a></li>
-    <li> <a href="https://scholar.google.com/citations?user=ZVyMRmUAAAAJ&hl=en&oi=ao">Find my published research 📄</a></li>
-    <li> <a href="https://github.com/Gchism94/Research-compendiums-list/blob/main/README.md">Find my production level projects 📜</a></li>
-    <li> <a href="https://gregtchism.com/articles/">See my teaching materials 📝 </a></li>
-  </ul>
+   <a href="https://gregtchism.com/"><img src="https://img.shields.io/badge/Personal%20Website%20%F0%9F%92%BC-38678f?style=for-the-badge&link=https://gregtchism.com/" alt="Personal Website 💼" /></a>
+   <a href="https://scholar.google.com/citations?user=ZVyMRmUAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Published%20research%20%F0%9F%93%84-38678f?style=for-the-badge&link=https://scholar.google.com/citations?user=ZVyMRmUAAAAJ&hl=en&oi=ao" alt="Published research 📄" /></a>
+   <a href="https://github.com/Gchism94/Research-compendiums-list/blob/main/README.md"><img src="https://img.shields.io/badge/Research%20Compendiums%20%20%F0%9F%93%9C-38678f?style=for-the-badge&link=https://github.com/Gchism94/Research-compendiums-list/blob/main/README.md" alt="Research Compendiums  📜" /></a>
+   <a href="https://gregtchism.com/articles/"><img src="https://img.shields.io/badge/Teaching%20Materials%20%20%F0%9F%93%9C-38678f?style=for-the-badge&link=https://gregtchism.com/articles/" alt="Teaching Materials  📜" /></a>
 </p>
 </details>
 

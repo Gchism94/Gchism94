@@ -58,13 +58,19 @@ say_hi(ds_edu)
 <details>
   <summary><b> 🌎 &nbsp; &nbsp;<h2>Find me around the web </h2> &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
+  <a href="mailto:gchism94@gmail.com"><img src="https://img.shields.io/badge/gchism94@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gchism94@gmail.com" alt="gchism94@gmail.com" /></a> 
+  <a href="https://www.linkedin.com/in/greg-chism/"><img src="https://img.shields.io/badge/greg--chism-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/greg-chism/" alt="greg-chism" /></a>
+  <a href="https://github.com/Gchism94"><img src="https://img.shields.io/badge/Gchism94-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Gchism94" alt="Gchism94" /></a>
+  
+  <br>
+  
    <a href="https://gregtchism.com/"><img src="https://img.shields.io/badge/Personal%20Website%20%F0%9F%92%BC-38678f?style=for-the-badge&link=https://gregtchism.com/" alt="Personal Website 💼" /></a>
    <a href="https://scholar.google.com/citations?user=ZVyMRmUAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Published%20research%20%F0%9F%93%84-38678f?style=for-the-badge&link=https://scholar.google.com/citations?user=ZVyMRmUAAAAJ&hl=en&oi=ao" alt="Published research 📄" /></a>
    <a href="https://github.com/Gchism94/Research-compendiums-list/blob/main/README.md"><img src="https://img.shields.io/badge/Research%20Compendiums%20%20%F0%9F%93%9C-38678f?style=for-the-badge&link=https://github.com/Gchism94/Research-compendiums-list/blob/main/README.md" alt="Research Compendiums  📜" /></a>
    <a href="https://gregtchism.com/articles/"><img src="https://img.shields.io/badge/Teaching%20Materials%20%20%F0%9F%93%9C-38678f?style=for-the-badge&link=https://gregtchism.com/articles/" alt="Teaching Materials  📜" /></a>
 </p>
 </details>
-
+  
 <h2 align="left">Languages</h2>
   
 ![R](https://img.shields.io/badge/-R-000?&style=for-the-badge&logo=R)

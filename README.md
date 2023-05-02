@@ -23,8 +23,17 @@
   <summary><b>:shipit: &nbsp; &nbsp;<h2> A little about me </h2> &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
   
- <img src="[[http://localhost:3000/api/view.svg?uid=urpdt8zjkq63vzgwphnceq2m7&redirect=true][http://localhost:3000/api/view.svg?uid=urpdt8zjkq63vzgwphnceq2m7&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)]]" alt="Now Playing">
+ <p>
+  <a href="https://now-playing-profile-brown-eight.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&redirect=true">
+    <img src="https://now-playing-profile-brown-eight.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
+
+<!--START_SECTION:waka-->
+  
+<!--END_SECTION:waka-->  
  
+<p>
   <ul>
     <li> Passionate data science educator with a research background and over eight years of experience </li>
     <li> Adept at harnessing data to uncover compelling stories and insights </li>

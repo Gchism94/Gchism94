@@ -61,6 +61,7 @@ say_hi <- function(ds_edu) {
 ds_edu <- DataScienceEducator$new()
 say_hi(ds_edu) 
 ```
+          
 </div>
           
 <div align="center">          

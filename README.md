@@ -27,7 +27,9 @@
 
 <details align="center">
   <summary><b>:shipit: &nbsp; &nbsp;<h2> 𝙰 𝚕𝚒𝚝𝚝𝚕𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 </h2> &nbsp;&nbsp;&nbsp; </b></summary>
- 
+
+<div align="left">
+  
 ```R
 DataScienceEducator <- setRefClass(
   "DataScienceEducator",
@@ -59,7 +61,8 @@ say_hi <- function(ds_edu) {
 ds_edu <- DataScienceEducator$new()
 say_hi(ds_edu) 
 ```
-
+</div>
+          
 <div align="center">          
 <h3>𝚈𝚘𝚞 𝚌𝚊𝚗 𝚕𝚎𝚊𝚛𝚗 𝚊 𝚕𝚘𝚝 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 𝚏𝚛𝚘𝚖 𝚠𝚑𝚊𝚝 𝙸 𝚕𝚒𝚜𝚝𝚎𝚗 𝚝𝚘!</h3>
   

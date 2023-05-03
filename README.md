@@ -18,7 +18,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&weight=500&size=22&duration=3000&pause=500&color=1D6685&multiline=true&width=750&height=140&lines=%24+whoami;Gchism94;%5BAKA+Greg+Chism%5D%F0%9F%A4%98;Educator+%7C+Data+Scientist+%7C+Behavioral+Ecologist;Thanks+for+visiting!+%F0%9F%92%9B)](https://git.io/typing-svg)
 
-
 <details>
   <summary><b>:shipit: &nbsp; &nbsp;<h2> A little about me </h2> &nbsp;&nbsp;&nbsp; </b></summary>
  
@@ -54,8 +53,12 @@ ds_edu <- DataScienceEducator$new()
 say_hi(ds_edu) 
 ```
           
+<h3>You can learn a lot about me by what I listen to</h3>
 
-          
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" alt="Spotify GitHub Profile" />
+  </a>
+        
 </details>
 
 

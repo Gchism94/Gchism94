@@ -53,7 +53,7 @@ ds_edu <- DataScienceEducator$new()
 say_hi(ds_edu) 
 ```
  
-<h3>𝚈𝚘𝚞 𝚌𝚊𝚗 𝚕𝚎𝚊𝚛𝚗 𝚊 𝚕𝚘𝚝 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 𝚋𝚢 𝚠𝚑𝚊𝚝 𝙸 𝚕𝚒𝚜𝚝𝚎𝚗 𝚝𝚘!</h3>
+<h3>𝚈𝚘𝚞 𝚌𝚊𝚗 𝚕𝚎𝚊𝚛𝚗 𝚊 𝚕𝚘𝚝 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 𝚏𝚛𝚘𝚖 𝚠𝚑𝚊𝚝 𝙸 𝚕𝚒𝚜𝚝𝚎𝚗 𝚝𝚘!</h3>
   
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&cover_image=true&theme=default&show_offline=false&background_color=1b2932&interchange=true&bar_color=008ae6" alt="Spotify GitHub Profile" />

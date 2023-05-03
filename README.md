@@ -56,7 +56,7 @@ say_hi(ds_edu)
 <h3>You can learn a lot about me by what I listen to</h3>
 
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" alt="Spotify GitHub Profile" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&cover_image=true&theme=default&show_offline=false&background_color=1b2932&interchange=true" alt="Spotify GitHub Profile" />
   </a>
         
 </details>

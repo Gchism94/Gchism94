@@ -7,18 +7,25 @@
 
 ***
 
-<h1 align="left">𝙶𝚛𝚎𝚎𝚝𝚒𝚗𝚐𝚜! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">𝙶𝚛𝚎𝚎𝚝𝚒𝚗𝚐𝚜! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+<div align="center">
 <table>
   <tr>
     <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</td>
     <td><img src="https://profile-counter.glitch.me/Gchism94/count.svg" alt="" /></td>
   </tr>
 </table>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&weight=500&size=22&duration=3000&pause=500&color=1D6685&multiline=true&width=750&height=140&lines=%24+whoami;Gchism94;%5BAKA+Greg+Chism%5D%F0%9F%A4%98;Educator+%7C+Data+Scientist+%7C+Behavioral+Ecologist;Thanks+for+visiting!+%F0%9F%92%9B)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Goldman&weight=500&size=22&duration=3000&pause=500&color=1D6685&multiline=true&width=650&height=140&lines=%24+whoami;Gchism94;%5BAKA+Greg+Chism%5D%F0%9F%A4%98;Educator+%7C+Data+Scientist+%7C+Behavioral+Ecologist;Thanks+for+visiting!+%F0%9F%92%9B" alt="Spotify GitHub Profile" />
+  </a>
+</div>
+  
 
-<details>
+<details align="center">
   <summary><b>:shipit: &nbsp; &nbsp;<h2> 𝙰 𝚕𝚒𝚝𝚝𝚕𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 </h2> &nbsp;&nbsp;&nbsp; </b></summary>
  
 ```R
@@ -52,17 +59,19 @@ say_hi <- function(ds_edu) {
 ds_edu <- DataScienceEducator$new()
 say_hi(ds_edu) 
 ```
- 
+
+<div align="center">          
 <h3>𝚈𝚘𝚞 𝚌𝚊𝚗 𝚕𝚎𝚊𝚛𝚗 𝚊 𝚕𝚘𝚝 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 𝚏𝚛𝚘𝚖 𝚠𝚑𝚊𝚝 𝙸 𝚕𝚒𝚜𝚝𝚎𝚗 𝚝𝚘!</h3>
   
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&cover_image=true&theme=default&show_offline=false&background_color=1b2932&interchange=true&bar_color=008ae6" alt="Spotify GitHub Profile" />
   </a>
-        
+</div>
+
 </details>
 
 
-<details>
+<details align="center">
   <summary><b> 🌎 &nbsp; &nbsp;<h2>𝙵𝚒𝚗𝚍 𝚖𝚎 𝚊𝚛𝚘𝚞𝚗𝚍 𝚝𝚑𝚎 𝚠𝚎𝚋 </h2> &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
   <a href="mailto:gchism94@gmail.com"><img src="https://img.shields.io/badge/gchism94@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gchism94@gmail.com" alt="gchism94@gmail.com" /></a> 
@@ -77,8 +86,9 @@ say_hi(ds_edu)
    <a href="https://gregtchism.com/articles/"><img src="https://img.shields.io/badge/Teaching%20Materials%20%20%F0%9F%93%9C-38678f?style=for-the-badge&link=https://gregtchism.com/articles/" alt="Teaching Materials  📜" /></a>
 </p>
 </details>
-  
-<h2 align="left">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</h2>
+
+<div align="center">
+<h2>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</h2>
   
 ![R](https://img.shields.io/badge/-R-000?&style=for-the-badge&logo=R)
 ![Python](https://img.shields.io/badge/-Python-000?&style=for-the-badge&logo=Python)
@@ -101,10 +111,11 @@ say_hi(ds_edu)
 ![Snake animation](https://github.com/Gchism94/Gchism94/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 <!--🪳ROACH&🕷️SPIDER--> 
-<p align="left">
+<p align="center">
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="50">
 
 
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+</div>

@@ -41,7 +41,7 @@ DataScienceEducator <- setRefClass(
   methods = list(
     initialize = function() {
       name <<- "Greg Chism"
-      role <<- "Data Science Educator"
+      role <<- "Assistant Professor of Practice"
       hobby <<- "Website Development"
     }
   )

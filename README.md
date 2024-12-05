@@ -107,9 +107,7 @@ say_hi(ds_edu)
   
 <h2> 📈 &nbsp;𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙷𝚒𝚜𝚝𝚘𝚛𝚢!</h2>
 <a href="https://github.com/Gchism94">
-  
-  <img height="180em" src="https://streak-stats.demolab.com?user=Gchism94&theme=noctis-minimus&fire=008AE6&ring=38678F" class="center"/>
-  <br>
+
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gchism94&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gchism94&theme=noctis_minimus&layout=compact" />
 </a>

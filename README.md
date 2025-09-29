@@ -48,7 +48,7 @@ DataScienceEducator <- setRefClass(
 )
 
 say_hi <- function(ds_edu) {
-  print(paste0("Passionate ", ds_edu$role, " with a research background and over eight years of experience."))
+  print(paste0("Passionate ", ds_edu$role, " with a research background and over eleven years of experience."))
   print("Adept at harnessing data to uncover compelling stories and insight.")
   print("Empowering others to leverage their data and make complex concepts accessible.")
   print("Expanded expertise in data science tools, including inferential statistics, machine learning, containers, and programming languages.")

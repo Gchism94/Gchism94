@@ -106,10 +106,10 @@ say_hi(ds_edu)
 ![Git](https://img.shields.io/badge/-git-000?&style=for-the-badge&logo=git)
   
 <h2> 📈 &nbsp;𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙷𝚒𝚜𝚝𝚘𝚛𝚢!</h2>
-<a href="https://github.com/Gchism94">
 
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gchism94&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gchism94&theme=noctis_minimus&layout=compact" />
-</a>
+[![Greg's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Gchism94\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/Gchism94/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Greg's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Gchism94\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/Gchism94/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+
+
 
 ![Snake animation](https://github.com/Gchism94/Gchism94/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)

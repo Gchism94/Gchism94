@@ -107,8 +107,7 @@ say_hi(ds_edu)
   
 <h2> 📈 &nbsp;𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙷𝚒𝚜𝚝𝚘𝚛𝚢!</h2>
 
-[![Greg's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Gchism94\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/Gchism94/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Greg's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Gchism94\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/Gchism94/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+![Metrics](https://github.com/Gchism94/Gchism94/raw/main/github-metrics.svg)
 
 
 
